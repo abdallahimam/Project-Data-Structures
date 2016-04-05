@@ -1,0 +1,25 @@
+Data Structure Assignment 1
+Work in groups of 3 to solve problems in sorting algorithms and complexity.
+2
+1/3/2016
+2
+Data Structure Assignment 2
+Work in groups of 3 to solve problems in sorting algorithms and complexity.
+3
+8/3/2016
+3
+Data Structure projec phase 1
+Work in groups of 3 to solve problems in linked list and some of its implementation.
+5
+15/3/2016
+6
+Data Structure projec phase 2
+Work in groups of 3 to solve problems in linked list and some of its implementation.
+1
+23/3/2016
+8
+Data Structure projec phase 3
+Work in groups of 3 to solve problems in stack and queue and some advanced features of them.
+4
+1/4/2016
+9
